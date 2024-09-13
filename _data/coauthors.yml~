@@ -1,34 +1,13 @@
 "mellet":
   - firstname: ["Antoine", "A.", "Antoine Mellet"]
+    lastname: ["Mellet"]
     url: https://www.math.umd.edu/~mellet/
 
 "spencer":
   - firstname: ["Richard", "R. G.", "Richard Spencer", "Richard G. Spencer"]
+    lastname: ["Spencer"]
     url: https://irp.nih.gov/pi/richard-spencer
 
 "czaja":
   - firstname: ["Wojciech", "W.", "Wojciech Czaja"]
     url: https://www-math.umd.edu/people/faculty/item/279-czaja.html
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck

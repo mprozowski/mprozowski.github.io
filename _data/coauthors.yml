@@ -1,11 +1,14 @@
 "mellet":
   - firstname: ["Antoine", "A.", "Antoine Mellet"]
+    lastname: ["Mellet"]
     url: https://www.math.umd.edu/~mellet/
 
 "spencer":
   - firstname: ["Richard", "R. G.", "Richard Spencer", "Richard G. Spencer"]
+    lastname: ["Spencer"]
     url: https://irp.nih.gov/pi/richard-spencer
 
 "czaja":
   - firstname: ["Wojciech", "W.", "Wojciech Czaja"]
+    lastname: ["Czaja"]
     url: https://www-math.umd.edu/people/faculty/item/279-czaja.html
