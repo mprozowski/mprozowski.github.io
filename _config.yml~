@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Don't hesitate to reach out by e-mail if you'd to collaborate!
+  If you think there some possibility for a collaboration, please feel free to send me an e-mail!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -321,7 +321,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  bibliography_template: "%{reference}"bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
