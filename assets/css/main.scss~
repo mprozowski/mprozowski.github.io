@@ -23,10 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-.custom-icon {
-  width: 16px; /* Adjust to match Font Awesome size */
-  height: 16px; /* Ensure aspect ratio is consistent */
-  vertical-align: middle; /* Aligns it with Font Awesome icons */
-  display: inline-block;
-}
