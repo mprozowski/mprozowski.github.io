@@ -48,8 +48,8 @@ jobs:
           REPO_BRANCH: ${{ env.REPO_BRANCH }}
       - uses: actions/checkout@v4
         with:
-          repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.LIGHTHOUSE_BADGER_TOKEN }}
+          repository: ${{ env.REPOSITORY }}
           ref: ${{ env.BRANCH }}
       - uses: actions/checkout@v4
         with:
