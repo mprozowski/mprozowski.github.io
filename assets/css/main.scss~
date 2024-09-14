@@ -29,7 +29,7 @@ $max-content-width: {{ site.max_width }};
   height: 76px; /* Ensure aspect ratio is consistent */
   vertical-align: text-bottom; /* Aligns it with Font Awesome icons */
   display: inline-block;
-  transition: all 0.3s ease-in-out; /* Smooth transition for hover effect */
+ /* transition: all 0.3s ease-in-out; Smooth transition for hover effect */
 }
 
 /* Color change for light mode */
@@ -37,7 +37,7 @@ $max-content-width: {{ site.max_width }};
   .custom-icon:hover {
     filter: brightness(0) saturate(100%) invert(39%) sepia(63%) saturate(746%) hue-rotate(315deg) brightness(97%) contrast(101%);
     /* This filter creates al-folio's pink color on hover */
-    transform: scale(1.1); /* Optional: Slightly increase the size on hover */
+    /*transform: scale(1.1);  Optional: Slightly increase the size on hover */
   }
 }
 
@@ -46,6 +46,6 @@ $max-content-width: {{ site.max_width }};
   .custom-icon:hover {
     filter: brightness(0) saturate(100%) invert(28%) sepia(95%) saturate(1543%) hue-rotate(169deg) brightness(92%) contrast(87%);
     /* This filter creates a blue color on hover for dark mode */
-    transform: scale(1.1); /* Optional: Slightly increase the size on hover */
+#    transform: scale(1.1); /* Optional: Slightly increase the size on hover */
   }
 }
