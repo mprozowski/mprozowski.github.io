@@ -367,6 +367,7 @@ filtered_bibtex_keywords:
     pdf,
     poster,
     preview,
+    publication_status,
     published_version,
     selected,
     slides,
