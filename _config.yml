@@ -316,7 +316,7 @@ scholar:
   last_name: [Rozowski]
   first_name: [Michael, Michael P.]
 
-  style: inventiones-mathematicae # apa
+  style: dependent/inventiones-mathematicae # apa
   locale: en
 
   source: /_bibliography/
