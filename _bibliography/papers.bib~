@@ -32,6 +32,7 @@
 	number = {11},
 	pages = {1076-1086},
 	keywords = {biexponentials, deep learning, MRI, neural network, parameter estimation, regularization, relaxometry},
+	dimensions = {true},
 	doi = {10.1002/mrc.5289},
 	url = {https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mrc.5289},
 	eprint = {https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/mrc.5289},

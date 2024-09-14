@@ -10,7 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 4404</p>
-    <p>4176 Campus Dr., William E. Kirwan Hall</p>
+    <p>William E. Kirwan Hall</p>
+    <p>4176 Campus Dr.</p>
     <p>College Park, MD 20742</p>
 
 news: false # includes a list of news items
@@ -19,8 +20,8 @@ social: true # includes social icons at the bottom of the page
 ---
 This site is under construction~
 
-I'm in the final year of a PhD in Applied Mathematics at the University of Maryland, College Park, under the supervision 
-of Prof. Antoine Mellet. Consequently, I'm currently on the job market, with the intention of starting summer or fall of 2025.
+I'm in the final year of a PhD in Applied Mathematics (part of the [AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the supervision 
+of [Prof. Antoine Mellet](https://www.math.umd.edu/~mellet/). Consequently, I'm currently on the job market, with the intention of starting a position in either summer or fall of 2025.
 
 Link to your favorite [subreddit](http://reddit.com). 
 
