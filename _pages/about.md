@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room 4404</p>
-    <p>[William E. Kirwan Hall](https://maps.umd.edu/map/index.html?&x=-76.9392580900102&y=38.98862003053445&zoom=17&basemap=detailed)</p>
+    <p><a href='https://maps.umd.edu/map/index.html?&x=-76.9392580900102&y=38.98862003053445&zoom=17&basemap=detailed>William E. Kirwan Hall</a></p>
     <p>4176 Campus Dr.</p>
     <p>College Park, MD 20742</p>
 
