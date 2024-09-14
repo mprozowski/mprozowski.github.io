@@ -25,8 +25,8 @@ $max-content-width: {{ site.max_width }};
 ;
 
 .custom-icon {
-  width: 68px; /* Adjust to match Font Awesome size */
-  height: 68px; /* Ensure aspect ratio is consistent */
+  width: 72px; /* Adjust to match Font Awesome size */
+  height: 72px; /* Ensure aspect ratio is consistent */
   vertical-align: middle; /* Aligns it with Font Awesome icons */
   display: inline-block;
 }
