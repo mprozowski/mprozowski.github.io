@@ -132,5 +132,5 @@
   {% include scripts/wechatModal.liquid %}
 {% endif %}
 {% if site.laborunion %}
-  <a href="{{ site.laborunion }}" title="UMD Graduate Labor Union"><img src="{{ site.baseurl }}/assets/img/icons/GLU_Logo_BW.png"\></a>
+  <a href="{{ site.laborunion }}" title="UMD Graduate Labor Union"><img src="{{ site.baseurl }}/assets/img/icons/GLU_Logo_BW.png" class="custom-icon" \></a>
 {% endif %}
