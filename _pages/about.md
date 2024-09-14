@@ -20,9 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 This site is under construction~
 
-I'm in the final year of a PhD in Applied Mathematics (part of the [AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the supervision 
+Thanks for dropping by! I'm in the final year of a PhD in Applied Mathematics (a track in the [AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the supervision 
 of [Prof. Antoine Mellet](https://www.math.umd.edu/~mellet/). Consequently, I'm currently on the job market, with the intention of starting a position in either summer or fall of 2025.
-
-Link to your favorite [subreddit](http://reddit.com). 
 
 This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. 
