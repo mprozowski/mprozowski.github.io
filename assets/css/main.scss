@@ -27,6 +27,13 @@ $max-content-width: {{ site.max_width }};
 .custom-icon {
   width: 72px; /* Adjust to match Font Awesome size */
   height: 72px; /* Ensure aspect ratio is consistent */
-  vertical-align: super; /* Aligns it with Font Awesome icons */
+  vertical-align: inherit; /* Aligns it with Font Awesome icons */
   display: inline-block;
+  transition: all 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+
+/* Glow effect on hover */
+.custom-icon:hover {
+  filter: drop-shadow(0 0 10px #ff2b56); /* Change the color for glow effect */
+  transform: scale(1.1); /* Slightly increase the size on hover */
 }
