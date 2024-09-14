@@ -27,13 +27,14 @@ $max-content-width: {{ site.max_width }};
 .custom-icon {
   width: 72px; /* Adjust to match Font Awesome size */
   height: 72px; /* Ensure aspect ratio is consistent */
-  vertical-align: inherit; /* Aligns it with Font Awesome icons */
+  vertical-align: text-bottom; /* Aligns it with Font Awesome icons */
   display: inline-block;
   transition: all 0.3s ease-in-out; /* Smooth transition for hover effect */
 }
 
 /* Glow effect on hover */
 .custom-icon:hover {
-  filter: drop-shadow(0 0 10px #ff00ff); /* Change the color for glow effect */
+#  filter: drop-shadow(0 0 10px #ff2b56); /* Change the color for glow effect */
+  filter: brightness(0) saturate(100%) invert(39%) sepia(63%) saturate(746%) hue-rotate(315deg) brightness(97%) contrast(101%);
   transform: scale(1.1); /* Slightly increase the size on hover */
 }
