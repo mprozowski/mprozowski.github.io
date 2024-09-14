@@ -33,19 +33,19 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* Color change for light mode */
-@media (prefers-color-scheme: light) {
-  .custom-icon:hover {
-    filter: brightness(0) saturate(100%) invert(39%) sepia(63%) saturate(746%) hue-rotate(315deg) brightness(97%) contrast(101%);
+/* @media (prefers-color-scheme: light) {*/
+/*  .custom-icon:hover {*/
+/*    filter: brightness(0) saturate(100%) invert(39%) sepia(63%) saturate(746%) hue-rotate(315deg) brightness(97%) contrast(101%);*/
     /* This filter creates al-folio's pink color on hover */
     /*transform: scale(1.1);  Optional: Slightly increase the size on hover */
-  }
-}
+/*  } */
+/*}*/
 
 /* Color change for dark mode */
-@media (prefers-color-scheme: dark) {
-  .custom-icon:hover {
-    filter: brightness(0) saturate(100%) invert(28%) sepia(95%) saturate(1543%) hue-rotate(169deg) brightness(92%) contrast(87%);
+/*@media (prefers-color-scheme: dark) {*/
+/*  .custom-icon:hover {*/
+/*    filter: brightness(0) saturate(100%) invert(28%) sepia(95%) saturate(1543%) hue-rotate(169deg) brightness(92%) contrast(87%);*/
     /* This filter creates a blue color on hover for dark mode */
     /*transform: scale(1.1);  Optional: Slightly increase the size on hover */
-  }
-}
+/*  }*/
+/*}*/
