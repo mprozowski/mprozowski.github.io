@@ -20,11 +20,8 @@ social: true # includes social icons at the bottom of the page
 ---
 This site is under construction~
 
-Thanks for dropping by! I'm in the final year of a PhD in Applied Mathematics (a track in the [AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the supervision 
-of [Prof. Antoine Mellet](https://www.math.umd.edu/~mellet/). Consequently, I'm currently on the job market with the intention of starting a position in either summer or fall of 2025.
-
-Broadly, I'm interested in understanding how phenomena at "smaller scales" manifest at "larger scales" in a variety of contexts.
-Dually, I like problems of attempting to identify "smaller scale" behaviors that yield a given "larger scale" phenomena. More 
-particularly, I'm interested in nonlinear diffusion-aggregation equations, diffuse interface approximations, free boundary problems, calculus of variations, applications of optimal transport,
-asymptotic analysis, and mathematical biology. My dissertation has focused on the well-posedness and large population limits of Keller-Segel-type systems with nonlinear diffusion, and the results 
-show that these can be seen as sharp interface limits of some curvature-driven flows.
+Thanks for dropping by! I'm in the final year of a PhD in Applied Mathematics (a track in the 
+[AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the 
+supervision of [Prof. Antoine Mellet](https://www.math.umd.edu/~mellet/). 
+Consequently, I'm currently on the job market with the intention of starting a position in either 
+summer or fall of 2025.
