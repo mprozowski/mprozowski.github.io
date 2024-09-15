@@ -25,5 +25,6 @@ of [Prof. Antoine Mellet](https://www.math.umd.edu/~mellet/). Consequently, I'm 
 
 Broadly, I'm interested in understanding how phenomena at "smaller scales" manifest at "larger scales" in a variety of contexts.
 Dually, I like problems of attempting to identify "smaller scale" behaviors that yield a given "larger scale" phenomena. More 
-particularly, I'm interested in nonlinear diffusion, diffusive interface approximations, free boundary problems, calculus of variations, applications of optimal transport,
-and mathematical biology.
+particularly, I'm interested in nonlinear diffusion-aggregation equations, diffuse interface approximations, free boundary problems, calculus of variations, applications of optimal transport,
+asymptotic analysis, and mathematical biology. My dissertation has focused on the well-posedness and large population limtis of Keller-Segel-type systems with nonlinear diffusion, and the results 
+show that these can be seen as sharp interface limits of some curvature-driven flows.
