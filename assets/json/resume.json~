@@ -5,13 +5,13 @@
     "image": "",
     "email": "mrozowsk [at] umd [dot] edu",
     "url": "https://mprozowski.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "520 Kenyon St NW",
+      "postalCode": "20010",
+      "city": "Washington",
       "countryCode": "US",
-      "region": "California"
+      "region": "D.C."
     },
     "profiles": [
       {
@@ -28,7 +28,7 @@
       "startDate": "2019-Aug",
       "endDate": "present",
 //      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+//      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
