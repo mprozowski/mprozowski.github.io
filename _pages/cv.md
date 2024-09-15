@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: Rozowski_CV_link
 description: A pdf version of my CV can be found under the link on the right.
 toc:
   sidebar: left

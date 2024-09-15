@@ -25,9 +25,9 @@
     {
       "name": "University of Maryland, College Park, Dept. of Mathematics",
       "position": "Graduate Assistant",
-      "startDate": "2019-08",
-      "endDate": "present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2019-Aug",
+      "endDate": "now",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
@@ -45,13 +45,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "University of Maryland, College Park",
+      "location": "College Park, MD,
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Applied Mathematics & Statistics and Scientific Computing",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-08",
+      "endDate": "2025-05 (expected)",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
