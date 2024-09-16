@@ -2,10 +2,10 @@
 %%    Sharp interface limits    %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 @misc{Rozowski_2024_HeleShawSurfaceTensionKinetic, 
-	title = {Hele-Shaw Flow with Surface Tension and Kinetic Undercooling as a Sharp Interface Limit of the Fully Parabolic Keller-Segel System with Nonlinear Diffusion,
+	title = {Hele-Shaw Flow with Surface Tension and Kinetic Undercooling as a Sharp Interface Limit of the Fully Parabolic Keller-Segel System with Nonlinear Diffusion},
 	author = {Rozowski, Michael},
 	year = {2024},
-	pubstate = {In Preparation},
+	publication_status = {In Preparation},
 }
 
 
