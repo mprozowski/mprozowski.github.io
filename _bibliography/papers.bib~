@@ -1,6 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%    Sharp interface limits    %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@misc{Rozowski_2024_HeleShawSurfaceTensionKinetic, 
+	title = {Hele-Shaw Flow with Surface Tension and Kinetic Undercooling as a Sharp Interface Limit of the Fully Parabolic Keller-Segel System with Nonlinear Diffusion,
+	author = {Rozowski, Michael},
+	year = {2024},
+	pubstate = {In Preparation}
+}
+
+
 @misc{Mellet.Rozowski_2024_VolumepreservingMeancurvatureFlow,
 	title = {Volume-Preserving Mean-Curvature Flow as a Singular Limit of a Diffusion-Aggregation Equation},
 	author = {Mellet, Antoine and Rozowski, Michael},
@@ -11,6 +19,7 @@
 	doi = {10.48550/ARXIV.2408.14309},
 	archiveprefix = {arXiv},
 	arxiv = {2408.14309},
+	pubstate = {Submitted to SIAM J. Math. Anal.},
 	publication_status = {Submitted},
 	abstract = {The Patlak-Keller-Segel system of equations (PKS) is a classical example of aggregation-diffusion equation in which the repulsive effect of diffusion is in competition with the attractive chemotaxis term. 
 	Recent work on the <em>Parabolic-Elliptic PKS model</em> have shown that when the repulsion is modeled by a nonlinear diffusion term \(\rho \nabla \rho^{m-1}\) with \(m>2\), this competition leads to phase separation phenomena. Furthermore, in some asymptotic regime corresponding to a large population observed over a long enough time, the interface separating regions of high and low density evolves according to the Hele-Shaw free boundary problem with surface tension. 

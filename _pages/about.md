@@ -18,7 +18,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-This site is under construction~
 
 Thanks for dropping by! I'm in the final year of a PhD in Applied Mathematics (a track in the 
 [AMSC program](https://amsc.umd.edu/)) at the University of Maryland, College Park, under the 
